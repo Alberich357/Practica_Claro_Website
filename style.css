@@ -1,0 +1,98 @@
+.dropbtn:hover {
+    background-color: rgb(25, 28, 35);
+}
+
+
+.dropdown:hover .dropdown-menu {
+    display: inline-block;
+    position: absolute;
+}
+
+#nav-item:hover {
+    background-color: gray;
+}
+
+#dropdownlist {
+    padding: 3px;
+    color: #000;
+    font-size: 12px;
+    background: rgb(27, 36, 43);
+    -webkit-appearance: none;
+    width: 30cm;
+}
+
+#dropdownlist2 {
+    padding: 3px;
+    color: #000;
+    font-size: 12px;
+    background: rgb(27, 36, 43);
+    -webkit-appearance: none;
+    width: 30cm;
+    left: -2cm;
+}
+
+#dropdownlist3 {
+    padding: 3px;
+    color: #000;
+    font-size: 12px;
+    background: rgb(27, 36, 43);
+    -webkit-appearance: none;
+    width: 30cm;
+    left: -7cm;
+}
+
+#dropdownlist4 {
+    padding: 3px;
+    color: #000;
+    font-size: 12px;
+    background: rgb(27, 36, 43);
+    -webkit-appearance: none;
+    width: 30cm;
+    left: -9cm;
+}
+
+#dropdowntitle {
+    padding-top: 20px;
+    font-size: 18px;
+    color: rgb(93, 109, 126);
+    background: transparent;
+    position: relative;
+}
+
+#dropdownsubtitle {
+    font-size: 15px;
+    color: white;
+}
+#dropdownsubtitle:hover {
+    color: red;
+    background: transparent;
+}
+
+#dropdowntext {
+    font-size: 13px;
+    color: rgb(174, 182, 191);
+    display: inline;
+}
+#dropdowntext2 {
+    font-size: 13px;
+    color: rgb(174, 182, 191);
+    display: inline;
+    margin-left: -45px;
+}
+#dropdowntext:hover {
+    color: red;
+    background: transparent;
+}
+#dropdowntext2:hover {
+    color: red;
+    background: transparent;
+}
+
+
+li {
+    list-style-type:none;
+}
+
+#inLine{
+    display: inline;
+}
