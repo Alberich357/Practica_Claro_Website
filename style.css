@@ -150,3 +150,25 @@ li {
 #cards:hover #cardText2{
     color: gray;
 }
+
+#cardMiniCategory {
+    background-color: rgb(51, 152, 216); 
+    width: fit-content; position: block; 
+    margin-left: -20px; margin-top: -20px; 
+    color: white; 
+    padding: 3px;
+}
+
+#listaExtra{
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+}
+
+
+#listaExtra li{
+    float: left;
+    margin-top: 0.1cm;
+    margin-bottom: 0.1cm;
+    padding-left: 0.3cm;
+}
