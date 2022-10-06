@@ -96,3 +96,23 @@ li {
 #inLine{
     display: inline;
 }
+
+#equiposMX{
+    background-color: gray;
+}
+
+#listaEquiposMx{
+    list-style-type: none;
+    margin: 0;
+    padding-left: 5cm;
+    overflow: hidden;
+    background-color: rgb(236, 239, 244);
+}
+
+
+#listaEquiposMx li{
+    float: left;
+    margin-top: 0.1cm;
+    margin-bottom: 0.1cm;
+    padding-left: 0.5cm;
+}
