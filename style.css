@@ -96,3 +96,57 @@ li {
 #inLine{
     display: inline;
 }
+
+#equiposMX{
+    background-color: gray;
+}
+
+#listaEquiposMx{
+    list-style-type: none;
+    margin: 0;
+    padding-left: 5cm;
+    overflow: hidden;
+    background-color: rgb(236, 239, 244);
+}
+
+
+#listaEquiposMx li{
+    float: left;
+    margin-top: 0.1cm;
+    margin-bottom: 0.1cm;
+    padding-left: 0.5cm;
+}
+
+#anuncio1 {
+    padding-top: 0.5cm;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+#cardCategory {
+    font-size: 12px;
+    color: rgb(192, 12, 0);
+}
+
+#cardText {
+    color: black;
+}
+
+#cardText2 {
+    font-size: 16px;
+    color: black;
+}
+
+#cards:hover{
+    text-decoration: none;
+}
+
+#cards:hover #cardText{
+    color: gray;
+}
+
+#cards:hover #cardText2{
+    color: gray;
+}
